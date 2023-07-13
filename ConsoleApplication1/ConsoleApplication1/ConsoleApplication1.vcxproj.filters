@@ -13,12 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="ソース ファイル\NewFilter1">
-      <UniqueIdentifier>{70cc593a-d00d-4b83-a6fe-44d9516bcd16}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="match3.cpp">
+    <ClCompile Include="ConsoleApplication1.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
