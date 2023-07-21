@@ -22,4 +22,23 @@
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FreamContorol_h pdf.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverScene_h,pdf.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="GameClearScene_h.pdf">
+      <Filter>ヘッダー ファイル</Filter>
+    </None>
+    <None Include="GameMainScene_h.pdf">
+      <Filter>ヘッダー ファイル</Filter>
+    </None>
+    <None Include="InputControl_h.pdf">
+      <Filter>ヘッダー ファイル</Filter>
+    </None>
+  </ItemGroup>
 </Project>

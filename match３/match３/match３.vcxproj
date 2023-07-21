@@ -134,6 +134,15 @@
     <ClCompile Include="AppMain.cpp" />
     <ClCompile Include="match３.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FreamContorol_h pdf.h" />
+    <ClInclude Include="GameOverScene_h,pdf.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="GameClearScene_h.pdf" />
+    <None Include="GameMainScene_h.pdf" />
+    <None Include="InputControl_h.pdf" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
