@@ -20,4 +20,14 @@ void Input_Update(void);
 
 int Input_Escape(void);
 
-iint GetOidKey(int Key);
+int GetOidKey(int Key);
+
+int GetNowKey(int Key);
+
+int GetKeyFlg(int Key);
+
+int GetMousePositionX(void);
+
+int GetMousePositionY(void);
+
+

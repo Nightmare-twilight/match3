@@ -1,0 +1,30 @@
+#pragma once
+
+/******************
+*マクロ定義
+***********************/
+
+/**********************
+*型定義
+**********************/
+
+/********************
+*プロトタイプ宣言
+*********************/
+
+
+int StageInititalize(void);
+void CreateBlock(void);
+void SelectBlock(void);
+void StageDraw(void);
+void FadeOutBlock(void);
+void MoveBlock(void);
+void ChekBlock(void);
+void ChekClear(void);
+
+
+int Get_StageState(void);
+int Get_StageClearFlag(void);
+int GetStageScore(void);
+
+void Set_StageMission(int mission);

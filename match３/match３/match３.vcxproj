@@ -142,6 +142,9 @@
     <None Include="GameClearScene_h.pdf" />
     <None Include="GameMainScene_h.pdf" />
     <None Include="InputControl_h.pdf" />
+    <None Include="SceneManager_h.pdf" />
+    <None Include="Stage_h.pdf" />
+    <None Include="TiteScene_h.pdf" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

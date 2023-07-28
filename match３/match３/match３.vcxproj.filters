@@ -40,5 +40,14 @@
     <None Include="InputControl_h.pdf">
       <Filter>ヘッダー ファイル</Filter>
     </None>
+    <None Include="SceneManager_h.pdf">
+      <Filter>ヘッダー ファイル</Filter>
+    </None>
+    <None Include="Stage_h.pdf">
+      <Filter>ヘッダー ファイル</Filter>
+    </None>
+    <None Include="TiteScene_h.pdf">
+      <Filter>ヘッダー ファイル</Filter>
+    </None>
   </ItemGroup>
 </Project>
